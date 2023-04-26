@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/hellobryce.dev-infra.ts",
+  "app": "npx ts-node --prefer-ts-exts lib/index.ts",
   "watch": {
     "include": [
       "**"
